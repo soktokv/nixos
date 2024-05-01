@@ -1,0 +1,6 @@
+
+An example repository for NixOS, used for initialization.
+
+============================================
+
+flakes, home-manager, nvidia, x11, i3wm, vim ...
